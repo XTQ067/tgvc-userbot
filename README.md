@@ -1,16 +1,16 @@
-# Telegram Voice Chat UserBot [![Mentioned in Awesome Telegram Calls](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/tgcalls/awesome-tgcalls)
+# Telegram Voice Chat UserBot [![Mentioned in Awesome Telegram Calls](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/XTQ067/awesome-tgcalls)
 
 ![Python Workflow](https://github.com/callsmusic/tgvc-userbot/actions/workflows/python-package.yml/badge.svg)
 
 A Telegram UserBot to Play Audio in Voice Chats.
 
 This is also the source code of the userbot which is being used for playing
-DJ/Live Sets music in [VC DJ/Live Sets](https://t.me/VCSets) group.
+DJ/Live Sets music in [VC DJ/Live Sets](https://t.me/The_Yildiz_Group) group.
 
 Made with [tgcalls](https://github.com/MarshalX/tgcalls)
 and [Pyrogram Smart Plugin](https://docs.pyrogram.org/topics/smart-plugins)
 
-It's recommended to use [tgmusicbot](https://github.com/callsmusic/tgmusicbot)
+It's recommended to use [tgmusicbot](https://github.com/XTQ067/tgmusicbot)
 along with this userbot.
 
 ## Introduction
